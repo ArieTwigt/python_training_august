@@ -51,6 +51,7 @@ combined_flower_list[idx] = "daisy"
 print(combined_flower_list)
 
 # %% c. List comprehension (Best solution) In situations where there are more tulips or there is no tulip at all
-print(combined_flower_list)
-combined_flower_list = ["daisy" if x == "tulip" else x for x in combined_flower_list]
-print(combined_flower_list)
+combined_flower_list
+# %%
+
+# %%

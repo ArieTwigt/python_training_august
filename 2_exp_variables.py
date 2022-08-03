@@ -79,4 +79,20 @@ names_list.remove("Arie")
 names_list
 # %%
 my_name.upper()
+
+## + operator
+
+
+# %%
+first_name = "Arie"
+last_name = "Twigt"
+
+#%% strings, concatenation
+first_name + last_name
+# %%
+4 + 4
+# %%
+names_list = ["Arie", "Bart", "Cindy", "Arie", "Bart"]
+# %%
+names_list + names_list
 # %%
