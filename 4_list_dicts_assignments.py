@@ -3,9 +3,6 @@
 ## 1
 
 #%%
-from typing import Iterable
-
-
 person_1 = {"name": "Arie", 
             "age": 35,
             "hobbies": ['mountainbike', 'football', 'cooking']}
