@@ -52,11 +52,15 @@ surface_circle =  round(math.pow(radius, 2) * math.pi, 2)
 print(surface_circle)
 
 
+#%%
+math.pi
+
 ## Assignment 3
 
 
 # %%
 os.getcwd()
+
 
 # %%
 files_folders_list = os.listdir()
@@ -75,3 +79,5 @@ os.mkdir("our_functions")
 os.makedirs("folder/subfolder")
 
 
+
+# %%
