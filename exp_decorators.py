@@ -23,9 +23,12 @@ def calc_interest(amount, rate, years):
     return amount * (1 + rate) ** years
 
 
+#%%]
+def calc_interest(amount, rate, years):
+    return amount * (1 + rate) ** years
 
-#%%
-calc_interest(1000, 0.05, 5)
+if __name__ == '__name__':
+    calc_interest(1000, 0.05, 5)
 
 
 # %%
